@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: testmethod.Pharmeasy_plusmodule
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 2, Errors: 0, Skipped: 7, Time elapsed: 12.853 s <<< FAILURE! - in testmethod.Pharmeasy_plusmodule
+testmethod.Pharmeasy_plusmodule.Plus  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "com.relevantcodes.extentreports.ExtentReports.startTest(String)" because "testmethod.Pharmeasy_plusmodule.report" is null
+	at testmethod.Pharmeasy_plusmodule.Plus(Pharmeasy_plusmodule.java:47)
+
+testmethod.Pharmeasy_plusmodule.getResult[[TestResult name=Plus status=FAILURE method=Pharmeasy_plusmodule.Plus()[pri:1, instance:testmethod.Pharmeasy_plusmodule@101952da] output={null}]](0)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "com.relevantcodes.extentreports.ExtentTest.log(com.relevantcodes.extentreports.LogStatus, String)" because "testmethod.Pharmeasy_plusmodule.log" is null
+	at testmethod.Pharmeasy_plusmodule.getResult(Pharmeasy_plusmodule.java:81)
+

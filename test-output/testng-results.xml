@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-19T14:51:40 IST" name="Default suite" finished-at="2023-05-19T14:52:23 IST" duration-ms="43493">
+    <groups>
+    </groups>
+    <test started-at="2023-05-19T14:51:40 IST" name="Default test" finished-at="2023-05-19T14:52:23 IST" duration-ms="43493">
+      <class name="testmethod.Pharmeasy_plusmodule">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:51:34 IST" name="Launch" finished-at="2023-05-19T14:51:40 IST" duration-ms="5486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method is-config="true" signature="x()[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:51:40 IST" name="x" finished-at="2023-05-19T14:51:40 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- x -->
+        <test-method signature="Plus()[pri:1, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:51:40 IST" name="Plus" finished-at="2023-05-19T14:51:43 IST" duration-ms="2928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Plus -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:51:43 IST" name="getResult" finished-at="2023-05-19T14:51:43 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Plus status=SUCCESS method=Pharmeasy_plusmodule.Plus()[pri:1, instance:testmethod.Pharmeasy_plusmodule@449a4f23] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="Logo()[pri:2, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:51:43 IST" name="Logo" finished-at="2023-05-19T14:51:43 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logo -->
+        <test-method signature="Exclusive()[pri:3, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:51:43 IST" name="Exclusive" finished-at="2023-05-19T14:51:44 IST" duration-ms="1043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exclusive -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:51:43 IST" name="getResult" finished-at="2023-05-19T14:51:43 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Logo status=SUCCESS method=Pharmeasy_plusmodule.Logo()[pri:2, instance:testmethod.Pharmeasy_plusmodule@449a4f23] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:51:44 IST" name="getResult" finished-at="2023-05-19T14:51:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Exclusive status=SUCCESS method=Pharmeasy_plusmodule.Exclusive()[pri:3, instance:testmethod.Pharmeasy_plusmodule@449a4f23] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="Coupon()[pri:4, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:51:44 IST" name="Coupon" finished-at="2023-05-19T14:51:45 IST" duration-ms="1101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Coupon -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:51:45 IST" name="getResult" finished-at="2023-05-19T14:51:45 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Coupon status=SUCCESS method=Pharmeasy_plusmodule.Coupon()[pri:4, instance:testmethod.Pharmeasy_plusmodule@449a4f23] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="Login()[pri:5, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:51:45 IST" name="Login" finished-at="2023-05-19T14:52:06 IST" duration-ms="21324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:06 IST" name="getResult" finished-at="2023-05-19T14:52:06 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login status=SUCCESS method=Pharmeasy_plusmodule.Login()[pri:5, instance:testmethod.Pharmeasy_plusmodule@449a4f23] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="Plan()[pri:6, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:06 IST" name="Plan" finished-at="2023-05-19T14:52:07 IST" duration-ms="1045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Plan -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:07 IST" name="getResult" finished-at="2023-05-19T14:52:07 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Plan status=SUCCESS method=Pharmeasy_plusmodule.Plan()[pri:6, instance:testmethod.Pharmeasy_plusmodule@449a4f23] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="Plan_membership()[pri:7, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:07 IST" name="Plan_membership" finished-at="2023-05-19T14:52:08 IST" duration-ms="1064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Plan_membership -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:08 IST" name="getResult" finished-at="2023-05-19T14:52:08 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Plan_membership status=SUCCESS method=Pharmeasy_plusmodule.Plan_membership()[pri:7, instance:testmethod.Pharmeasy_plusmodule@449a4f23] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="Add_cart()[pri:8, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:08 IST" name="Add_cart" finished-at="2023-05-19T14:52:11 IST" duration-ms="2889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_cart -->
+        <test-method signature="Plus_reback()[pri:9, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:11 IST" name="Plus_reback" finished-at="2023-05-19T14:52:14 IST" duration-ms="2697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Plus_reback -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:11 IST" name="getResult" finished-at="2023-05-19T14:52:11 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Add_cart status=SUCCESS method=Pharmeasy_plusmodule.Add_cart()[pri:8, instance:testmethod.Pharmeasy_plusmodule@449a4f23] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:14 IST" name="getResult" finished-at="2023-05-19T14:52:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Plus_reback status=SUCCESS method=Pharmeasy_plusmodule.Plus_reback()[pri:9, instance:testmethod.Pharmeasy_plusmodule@449a4f23] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="Spending()[pri:10, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:14 IST" name="Spending" finished-at="2023-05-19T14:52:14 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Spending -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:14 IST" name="getResult" finished-at="2023-05-19T14:52:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Spending status=SUCCESS method=Pharmeasy_plusmodule.Spending()[pri:10, instance:testmethod.Pharmeasy_plusmodule@449a4f23] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="Sure()[pri:11, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:14 IST" name="Sure" finished-at="2023-05-19T14:52:15 IST" duration-ms="1062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sure -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:15 IST" name="getResult" finished-at="2023-05-19T14:52:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sure status=SUCCESS method=Pharmeasy_plusmodule.Sure()[pri:11, instance:testmethod.Pharmeasy_plusmodule@449a4f23] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="User()[pri:12, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:15 IST" name="User" finished-at="2023-05-19T14:52:16 IST" duration-ms="1520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:16 IST" name="getResult" finished-at="2023-05-19T14:52:16 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=User status=SUCCESS method=Pharmeasy_plusmodule.User()[pri:12, instance:testmethod.Pharmeasy_plusmodule@449a4f23] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="Wallet()[pri:13, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:16 IST" name="Wallet" finished-at="2023-05-19T14:52:22 IST" duration-ms="5508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Wallet -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:22 IST" name="getResult" finished-at="2023-05-19T14:52:22 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Wallet status=SUCCESS method=Pharmeasy_plusmodule.Wallet()[pri:13, instance:testmethod.Pharmeasy_plusmodule@449a4f23] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="Work()[pri:14, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:22 IST" name="Work" finished-at="2023-05-19T14:52:23 IST" duration-ms="1118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Work -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:23 IST" name="getResult" finished-at="2023-05-19T14:52:23 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Work status=SUCCESS method=Pharmeasy_plusmodule.Work()[pri:14, instance:testmethod.Pharmeasy_plusmodule@449a4f23] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="EndTest()[pri:0, instance:testmethod.Pharmeasy_plusmodule@449a4f23]" started-at="2023-05-19T14:52:23 IST" name="EndTest" finished-at="2023-05-19T14:52:23 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+      </class> <!-- testmethod.Pharmeasy_plusmodule -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
